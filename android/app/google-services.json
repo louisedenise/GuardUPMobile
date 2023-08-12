@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102644584064",
+    "project_id": "guard-up-2e411",
+    "storage_bucket": "guard-up-2e411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102644584064:android:29b51fe71bec9799a26065",
+        "android_client_info": {
+          "package_name": "com.example.contact_tracing1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102644584064-ljcp9b25e2urqppgsjild0qema2o4toq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhO1-9PSu1qkLmDknHeaCtbyMd-c3xSW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102644584064-ljcp9b25e2urqppgsjild0qema2o4toq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
